@@ -4,6 +4,9 @@ import org.junit.*;
 
 import static org.junit.Assert.*;
 
+/**
+ * Created by retinka on 13.01.2016.
+ */
 public class CalculatorTest {
 
     private Calculator calculator;
@@ -60,5 +63,11 @@ public class CalculatorTest {
     @Test
     public void ignoredTest() {
         System.out.println("will not print it");
+    }
+
+    @Test(timeout = 500)
+    public void timeStampTest() {
+        System.out.println("timeStampTest()");
+        while (true);
     }
 }
