@@ -31,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
@@ -78,8 +78,8 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/javastudy/junit/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/javastudy/junit/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/javastudy/junit/SuiteTestClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -891,20 +891,20 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/SecondClassTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/ParameterizeTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalcTestListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/javastudy/junit/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
